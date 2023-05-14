@@ -74,7 +74,7 @@ Allows you to upload your photos
 
 But there is something... In the app, you only see the name of your photo without specifying the format. 
 You should keep in mind that "Photo.jpg " and "Photo.png" are two completely different photos. 
-Also avoid adding copies of photos. You can also add gif files
+Also avoid adding copies of photos
 
 ## Browser support
 
