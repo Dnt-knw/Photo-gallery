@@ -65,7 +65,7 @@ Allows you to upload your photos
 - __Asterisk__
 - __Question mark__
 - __Two and more spaces__
-- __One space is allowed__
+- __One space at the end__
 
 ### Valid name of photos and folders
 
