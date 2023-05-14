@@ -82,7 +82,7 @@ I have tested my project in different browsers and below is the __browser suppor
 
 | Microsoft Edge | Google Chrome | Yandex browser | Mozilla Firefox  | Opera | Safari |
 |------|------|------|------|------|------|
-| Fully support | Fully support | Fully support | Fully support | Fully support | Partially support |
+| Full support | Full support | Full support | Full support | Full support | Partial support |
 
 In particular, there is a problem with renaming photos on iOS and mobile devices. 
 In order for everything to work, you need to restart the app after renaming the photos.
