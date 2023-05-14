@@ -57,7 +57,7 @@ Allows you to upload your photos
 
 ## What are the limitations?
 
-### Oh, yes about the limitations, it is strictly forbidden to use the following characters in the names of folders and photos
+### Oh, yes, about the limitations, it is strictly forbidden to use the following characters in the names of folders and photos
 
 - __Backslash__
 - __Forward slash__
