@@ -12,7 +12,7 @@
 - Download all your files at once or separately
 - Check the amount of occupied and free memory
 
-You will learn more about how to use the app inside of itself
+You will learn more about how to use the app inside of itself.
 
 ## Briefly about the main thing
 
@@ -74,17 +74,17 @@ Allows you to upload your photos
 
 But there is something... In the app, you only see the name of your photo without specifying the format. 
 You should keep in mind that "Photo.jpg " and "Photo.png" are two completely different photos. 
-Also avoid adding copies of photos
+Also avoid adding copies of photos.
 
 ## Browser support
 
-I have tested my project in different browsers and below is the __browser support for my project__
+I have tested my project in different browsers and below is the __browser support for my project.__
 
 | Microsoft Edge | Google Chrome | Yandex browser | Mozilla Firefox  | Opera | Safari |
 |------|------|------|------|------|------|
 | Fully support | Fully support | Fully support | Fully support | Fully support | Partially support |
 
 In particular, there is a problem with renaming photos on iOS and mobile devices. 
-In order for everything to work, you need to restart the app after renaming the photos
+In order for everything to work, you need to restart the app after renaming the photos.
 
-Tested on the __latest versions__ of browsers
+Tested on the __latest versions__ of browsers.
