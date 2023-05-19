@@ -1,90 +1,96 @@
-# Photo-gallery
+# Photo gallery 📸🖼️
 
-> Store and enjoy your most favorite photos
+> Store and enjoy your most favorite photos 🤩🤳🏼
 
-## Briefly about the project
+### See the <a href='https://dnt-knw.github.io/Photo-gallery' target='_blank' title='Click to open the project'>Demo</a> 👁
 
-### What you can do
+<img src='./Photo-gallery.gif' alt='gallery' />
 
-- Create and delete folders
-- Add photos to your folders and delete from them
-- Rename your photos
-- Download all your files at once or separately
-- Check the amount of occupied and free memory
+## What you can do ❓
 
-You will learn more about how to use the app inside of itself.
+- 📜 Create and delete folders 📁
+- 📜 Add photos to your folders and delete from them 🖼️📁
+- 📜 Rename your photos 🖼️
+- 📜 Download all your files at once or separately 📥
+- 📜 Check the amount of occupied and free memory 💾
 
-## Briefly about the main thing
+You will __learn more__ about how to use the app __inside of itself__
 
-### "Folders" button
+## Usage ⌨️
 
-Opens drawer navigator which contains your folders
+### 📝 The "Folders" button
 
-### "Home" button
+📜 Opens the drawer navigator which contains your folders
 
-Returns you to the main page
+### 📝 The "Home" button
 
-### "Remove mode" button
+📜 Returns you to the main page
 
-Allows you to remove your photos
+### 📝 The "Remove mode" button
 
-### "Plus" button inside drawer navigator
+📜 Allows you to remove your photos
 
-Allows you to create a folder
+### 📝 The "Plus" button inside the drawer navigator
 
-### "Download" button inside drawer navigator
+📜 Allows you to create a folder
 
-Allows you to download your folder separately
+### 📝 The "Download" button inside the drawer navigator
 
-### "Remove" button inside drawer navigator
+📜 Allows you to download your folder separately
 
-Allows you to remove your folder
+### 📝 The "Remove" button inside the drawer navigator
 
-### "Download all" button inside drawer navigator
+📜 Allows you to remove your folder
 
-Allows you to download all folders you have
+### 📝 The "Download all" button inside the drawer navigator
 
-### "Upload photos" input
+📜 Allows you to download all folders you have
 
-Allows you to upload your photos
+### 📝 The "Upload photos" input
 
-## About adding your photos
+📜 Allows you to upload your photos
 
-### There are 2 ways for photo adding
+## ❗️ About adding your photos ❗️
 
-- Using the "Upload photos" input
-- Using the Drag & Drop inside your folder
+### There are 2 ways for photo adding 🖼️
 
-## What are the limitations?
+- 📜 Using the "Upload photos" input
+- 📜 Using the Drag & Drop inside your folder
 
-### Oh, yes, about the limitations, it is strictly forbidden to use the following characters in the names of folders and photos
+## ❗️ What are the limitations? ❗️
 
-- __Backslash__
-- __Forward slash__
-- __Dot__
-- __Asterisk__
-- __Question mark__
-- __Two and more spaces__
-- __One space at the end__
+### Strictly forbidden to use the following characters in the names of folders and photos ⛔️
 
-### Valid name of photos and folders
+- __Backslash__ ❌
+- __Forward slash__ ❌
+- __Dot__ ❌
+- __Asterisk__ ❌
+- __Question mark__ ❌
+- __Two and more spaces__ ❌
+- __One space at the end__ ❌
 
-- __Folder names must be unique__
-- __The names of the photos must be unique too__
+### Identical names ⛔
 
-But there is something... In the app, you only see the name of your photo without specifying the format. 
-You should keep in mind that "Photo.jpg " and "Photo.png" are two completely different photos. 
-Also avoid adding copies of photos.
+- __Folder names must be unique__ ✅
+- __The names of the photos must be unique too__ ✅
 
-## Browser support
+📌 Keep in mind that you need to write a unique name __only for 1 photo format__. 
+If you have "cool_photo.jpg", you cannot rename another photo to "cool_photo" name, if it __also has jpg format__. 
+This means that "cool_photo.jpg" you can store __only in 1 copy__. And conversely, "cool_photo.jpg" and "cool_photo.png" are __completely different photos__ due to their different formats
 
-I have tested my project in different browsers and below is the __browser support for my project.__
+📌 You don't see the photo format in the app, but if something goes wrong, __the app will warn you__ about it
+
+## ❗️ Browser support ❗️
+
+### I have tested my app in different browsers and below is the browser support
 
 | Microsoft Edge | Google Chrome | Yandex browser | Mozilla Firefox  | Opera | Safari |
 |------|------|------|------|------|------|
 | Full support | Full support | Full support | Full support | Full support | Partial support |
 
-In particular, there is a problem with renaming photos on iOS and mobile devices. 
-In order for everything to work, you need to restart the app after renaming the photos.
+📌 In particular, there are 2 problems on iOS
 
-Tested on the __latest versions__ of browsers.
+1. 🚫 The problem with renaming photos. In order for everything to work, you need to restart the app after renaming the photos
+2. 🚫 The problem with memory access. There is no way to check the amount of occupied and free memory
+
+Tested on the __latest versions__ of browsers ✅
