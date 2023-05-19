@@ -74,11 +74,15 @@ You will __learn more__ about how to use the app __inside of itself__
 - __Folder names must be unique__ ✅
 - __The names of the photos must be unique too__ ✅
 
+### ❗️ Important ❗️
+
 📌 Keep in mind that you need to write a unique name __only for 1 photo format__. 
 If you have "cool_photo.jpg", you cannot rename another photo to "cool_photo" name, if it __also has jpg format__. 
 This means that "cool_photo.jpg" you can store __only in 1 copy__. And conversely, "cool_photo.jpg" and "cool_photo.png" are __completely different photos__ due to their different formats
 
 📌 You don't see the photo format in the app, but if something goes wrong, __the app will warn you__ about it
+
+📌 Adding copies of your photos __also forbidden__ due to potential problems
 
 ## ❗️ Browser support ❗️
 
@@ -90,7 +94,7 @@ This means that "cool_photo.jpg" you can store __only in 1 copy__. And conversel
 
 📌 In particular, there are 2 problems on iOS
 
-1. 🚫 The problem with renaming photos. In order for everything to work, you need to restart the app after renaming the photos
-2. 🚫 The problem with memory access. There is no way to check the amount of occupied and free memory
+1. 🚩 The problem with renaming photos. In order for everything to work, you need to restart the app after renaming the photos
+2. 🚩 The problem with memory access. There is no way to check the amount of occupied and free memory
 
 Tested on the __latest versions__ of browsers ✅
